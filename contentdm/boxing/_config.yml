@@ -13,10 +13,10 @@ cdm-url: https://digital.lib.uidaho.edu
 source-code: https://github.com/CollectionBuilder
 
 # Site settings
-title: Donald R. Theophilus Boxing Photograph Collection
+title: Collection Builder CDM Skin
 # header and head metadata
-tagline: Photographs of University of Idaho Boxers and Boxing Teams, 1934 - 1953
-description: "A digital collection comprised of 52 photographs of boxers and boxing teams from the University of Idaho"
+tagline: Digital Collection Magic with Static Web Technologies
+description: "CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. This demo features materials from the Frank B. Robinson Papers documenting Psychiana, a religion popular in the 1930s and 40s." 
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
@@ -40,7 +40,7 @@ page_gen:
 # Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build
 # if present, used to add analytics during build
-google-analytics-id: UA-76328753-1
+google-analytics-id: 
 
 # add liquid profiler to id bottlenecks
 # profile: true
