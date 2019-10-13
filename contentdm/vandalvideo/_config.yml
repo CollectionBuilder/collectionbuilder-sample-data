@@ -13,10 +13,10 @@ cdm-url: https://digital.lib.uidaho.edu
 source-code: https://github.com/CollectionBuilder
 
 # Site settings
-title: Collection Builder CDM Skin
+title: Vandal Video Collection
 # header and head metadata
-tagline: Digital Collection Magic with Static Web Technologies
-description: "CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. This demo features materials from the Frank B. Robinson Papers documenting Psychiana, a religion popular in the 1930s and 40s." 
+tagline: Historic videos of University of Idaho Basketball and Football Games, 1925 - 1997
+description: "The Vandal Video Collection is a collection of 160+ digitized 16mm Film reels that were scouting videos for both football and basketball games.." 
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
