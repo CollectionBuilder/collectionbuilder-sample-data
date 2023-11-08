@@ -31,3 +31,5 @@ This repository contains demo metadata for various CollectionBuilder templates.
     - On GH or CSV, place the demo csv in your project's "_data" folder, and configure the `metadata` value in your "_config.yml".
     - On Sheets, configure the `metadata-csv` value in your "_config.yml" to `https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/nwpostcards_cbdemo_urls.csv`.
     - Items from [Northwest Historical Postcards Collection](https://www.lib.uidaho.edu/digital/postcards/)
+
+*Note:* CB-Sheets uses the "psychiana_cbdemo_gh.csv", "watkins_cbdemo_gh.csv", and "idaho_cities_cbdemo_urls.csv" files from this repository as demo options.
