@@ -13,3 +13,6 @@ This repository contains demo metadata for various CollectionBuilder templates.
 - "idaho_cities_cbdemo_urls.csv" is prepped to work with CollectionBuilder-GH, -Sheets, or -CSV. All items are links hosted at University of Idaho Library, so you do not need any objects! 
     - On GH or CSV, place the demo csv in your project's "_data" folder, and configure the `metadata` value in your "_config.yml".
     - On Sheets, configure the `metadata-csv` value in your "_config.yml" to `https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/idaho_cities_cbdemo_urls.csv`.
+- "nwpostcards_cbdemo_urls.csv" is prepped to work with CollectionBuilder-GH or -CSV. All items are links hosted at University of Idaho Library, so you do not need any objects! 
+    - On GH or CSV, place the demo csv in your project's "_data" folder, and configure the `metadata` value in your "_config.yml".
+    - On Sheets, configure the `metadata-csv` value in your "_config.yml" to `https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/nwpostcards_cbdemo_urls.csv`.
